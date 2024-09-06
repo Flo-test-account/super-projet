@@ -11,3 +11,7 @@ h1 {
 body {
   background:yellow
 }
+
+nav {
+  padding: 2rem;
+}
