@@ -11,3 +11,7 @@ h1 {
 body {
   background: salmon;
 }
+
+nav {
+  padding: 40px;
+}
