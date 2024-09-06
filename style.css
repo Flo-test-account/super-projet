@@ -9,9 +9,10 @@ h1 {
 }
 
 body {
-  background:yellow
+
+  background: salmon;
 }
 
 nav {
-  padding: 2rem;
+  padding: 40px;
 }
